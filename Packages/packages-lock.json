@@ -6,6 +6,19 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "be.elab.nesmulti": {
+      "version": "file:2026_01_18_upm_nes_udp_multiplayer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.udpthreadsender": {
+      "version": "https://github.com/EloiStree/2020_11_29_upm_udp_thread_in_out_gate.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2b28049ee3e66b4f9a02a10290a563c072474848"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.9",
       "depth": 0,
