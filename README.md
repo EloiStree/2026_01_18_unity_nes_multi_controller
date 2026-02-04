@@ -11,4 +11,5 @@ git submodule add https://github.com/EloiStree/2026_01_18_upm_nes_udp_multiplaye
 
 Demo of how to use the NES upm package to build mini local multiplayer games.
 
-- https://github.com/EloiStree/2026_01_18_upm_nes_controller_udp.git
+- Controller: https://github.com/EloiStree/2026_01_18_upm_nes_controller_udp.git
+- Multijoueur: https://github.com/EloiStree/2026_01_18_upm_nes_udp_multiplayer
