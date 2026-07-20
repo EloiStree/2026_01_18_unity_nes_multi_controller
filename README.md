@@ -1,4 +1,11 @@
 
+Clone the project.
+```
+git clone --recusrive https://github.com/EloiStree/2026_01_18_unity_nes_multi_controller.git
+```
+
+
+Add tool to your project:
 ```
 git submodule add https://github.com/EloiStree/2026_01_18_upm_nes_controller_udp.git Packages/2026_01_18_upm_nes_controller_udp
 git submodule add https://github.com/EloiStree/2026_01_18_upm_nes_udp_multiplayer.git Packages/2026_01_18_upm_nes_udp_multiplayer
