@@ -9,6 +9,8 @@ Add tool to your project:
 ```
 git submodule add https://github.com/EloiStree/2026_01_18_upm_nes_controller_udp.git Packages/2026_01_18_upm_nes_controller_udp
 git submodule add https://github.com/EloiStree/2026_01_18_upm_nes_udp_multiplayer.git Packages/2026_01_18_upm_nes_udp_multiplayer
+git submodule add https://github.com/EloiStree/2025_06_02_upm_tick_collection.git Packages/be.elab.tickcollection
+git submodule add https://github.com/EloiStree/2026_07_20_upm_get_ipv4_info.git Packages/be.elab.getipv4
 ```
 
 ------------------------
