@@ -1,7 +1,7 @@
 
 Clone the project.
 ```
-git clone --recusrive https://github.com/EloiStree/2026_01_18_unity_nes_multi_controller.git
+git clone --recursive https://github.com/EloiStree/2026_01_18_unity_nes_multi_controller.git
 ```
 
 
