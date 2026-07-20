@@ -1,6 +1,15 @@
-[submodule "Packages/2026_01_18_upm_nes_controller_udp"]
-	path = Packages/2026_01_18_upm_nes_controller_udp
+[submodule "Packages/be.elab.nescontrollerudp"]
+	path = Packages/be.elab.nescontrollerudp
 	url = https://github.com/EloiStree/2026_01_18_upm_nes_controller_udp.git
-[submodule "Packages/2026_01_18_upm_nes_udp_multiplayer"]
-	path = Packages/2026_01_18_upm_nes_udp_multiplayer
+[submodule "Packages/be.elab.nesmulti"]
+	path = Packages/be.elab.nesmulti
 	url = https://github.com/EloiStree/2026_01_18_upm_nes_udp_multiplayer.git
+[submodule "Packages/be.elab.tickcollection"]
+	path = Packages/be.elab.tickcollection
+	url = https://github.com/EloiStree/2025_06_02_upm_tick_collection.git
+[submodule "Packages/be.elab.getipv4"]
+	path = Packages/be.elab.getipv4
+	url = https://github.com/EloiStree/2026_07_20_upm_get_ipv4_info.git
+[submodule "Packages/be.elab.udpthreadsender"]
+	path = Packages/be.elab.udpthreadsender
+	url = https://github.com/EloiStree/2020_11_29_upm_udp_thread_in_out_gate.git
